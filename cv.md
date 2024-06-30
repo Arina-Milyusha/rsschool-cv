@@ -43,9 +43,9 @@ Graphic Design & UX/UI Design Courses (march 2023) 
 # Languages
 
 
-+ English - advanced
-+ German - elementary
-+ Polish - elementary
++ *English* - advanced
++ *German* - elementary
++ *Polish* - elementary
 
 
 
