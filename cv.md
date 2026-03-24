@@ -1,5 +1,5 @@
 # My CV
-📍Belarus, Baranovichi.
-Age: 28
-✉️ CONTACT
+📍Belarus, Baranovichi.  
+Age: 28  
+✉️ CONTACT  
 email: milyushaarina@gmail.com
