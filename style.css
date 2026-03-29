@@ -67,6 +67,10 @@ article p {
     margin-bottom: 5px;
 }
 
+article a {
+    color: #5BA1BB;
+}
+
 .italic {
     font-style: italic;
 }
