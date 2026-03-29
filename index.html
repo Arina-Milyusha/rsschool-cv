@@ -11,8 +11,12 @@
         <div class="container">
             <img src="avatar.jpg" alt="My Photo">
             <h1>Arina Milyusha</h1>
-            <p>📍Belarus, Baranovichi | Age: 28</p>
-            <p>Mail: <a href="mailto:milyushaarina@gmail.com">milyushaarina@gmail.com</a> | Discord: arina_milyusha</p>
+            <nav>
+                <ul>
+                    <li>📍Belarus, Baranovichi | Age: 28</li>
+                    <li>Mail: <a href="mailto:milyushaarina@gmail.com">milyushaarina@gmail.com</a> | Discord: arina_milyusha</li>
+                </ul>
+            </nav>
         </div>
     </header>
     
@@ -66,6 +70,20 @@
             </article>
         </section>
 
+        <section>
+            <h2>CODE EXAMPLE</h2>
+            <p>A Google Sheets formula for automated countertop cutting calculations with custom rounding logic:</p>
+            <pre><code>
+                =IF(
+                  $D14&lt;&gt;"";
+                    IF(
+                     MOD(($D14+$G$11*2);10)&lt;=5;
+                     CEILING(($D14+$G$11*2);5);
+                     CEILING(($D14+$G$11*2);10)
+                    );
+                )
+            </code></pre>
+        </section>
 
         <section>
             <h2>EDUCATION</h2>
